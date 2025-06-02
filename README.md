@@ -1,1 +1,2 @@
 # MergeDemo
+CHANGES
